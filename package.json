@@ -9,10 +9,13 @@
 		"react": "^16.8"
 	},
 	"framer": {
-		"id": "36737bda-9c67-4e5d-a5e3-1875c58629c5"
+		"id": "36737bda-9c67-4e5d-a5e3-1875c58629c5",
+		"displayName": "Marquee"
 	},
 	"author": "Addison Schultz",
 	"dependencies": {
 		"styled-components": "^4.4.0"
-	}
+	},
+	"name": "@framer/addison.marquee",
+	"version": "1.1.0"
 }
