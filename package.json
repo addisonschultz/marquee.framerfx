@@ -1,0 +1,18 @@
+{
+	"main": "dist/index.js",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.8"
+	},
+	"peerDependencies": {
+		"framer": "^1.0",
+		"react": "^16.8"
+	},
+	"framer": {
+		"id": "36737bda-9c67-4e5d-a5e3-1875c58629c5"
+	},
+	"author": "Addison Schultz",
+	"dependencies": {
+		"styled-components": "^4.4.0"
+	}
+}
